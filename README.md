@@ -1,7 +1,7 @@
 ## 👋 Hello 👋
 I'm Marshall Vielmetti, a CS student at the University of Michigan, Ann Arbor (Go Blue!)
 
-I'm currently a Software Development Intern at Johns Hopkins University Applied Physics Lab in Laurel, MD
+I'm currently a Software Development Intern at Johns Hopkins University Applied Physics Lab in Laurel, MD, where I'm working on a multi-agent, command and control mission system!
 
 
 
