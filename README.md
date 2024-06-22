@@ -1,4 +1,9 @@
-## Hi there 👋
+## 👋 Hello 👋
+I'm Marshall Vielmetti, a CS student at the University of Michigan, Ann Arbor (Go Blue!)
+
+I'm currently a Software Development Intern at Johns Hopkins University Applied Physics Lab in Laurel, MD
+
+
 
 <!--
 **MarshallVielmetti/MarshallVielmetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
