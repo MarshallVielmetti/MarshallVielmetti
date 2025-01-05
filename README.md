@@ -5,13 +5,9 @@ I've previously worked as a Software Development Intern at the Johns Hopkins Uni
 
 I want to design the software that powers the next generation of robotic systems.
 
-Currently Reading: Applied Nonlinear Control, Slotine
-
-Currently Taking:
-- EECS 482 - Operating Systems
-- EECS 560 - Linear Systems Theory
-- ROB 498 - Multi-Agent Systems
-- EECS 373 - Embedded Systems
+📖 Currently Reading: 
+Applied Nonlinear Control, Slotine
+Optimal Control Theory: An Introduction, Kirk
 
 <!--
 **MarshallVielmetti/MarshallVielmetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
