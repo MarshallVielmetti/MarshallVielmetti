@@ -5,9 +5,9 @@ I've previously worked as a Software Development Intern at the Johns Hopkins Uni
 
 I want to design the software that powers the next generation of robotic systems.
 
-📖 Currently Reading: 
-Applied Nonlinear Control, Slotine
-Optimal Control Theory: An Introduction, Kirk
+📖 Currently Reading:
+- Applied Nonlinear Control, Slotine
+- Optimal Control Theory: An Introduction, Kirk
 
 <!--
 **MarshallVielmetti/MarshallVielmetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
