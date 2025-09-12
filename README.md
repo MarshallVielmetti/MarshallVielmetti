@@ -5,12 +5,12 @@ I'm currently a research assistant with the Distributed Autonomous Systems and C
 
 I've previously worked as a Software Development Intern at the Johns Hopkins University Applied Physics Lab, and prior to that at Menet Aero.
 
-I want to design the software that powers the next generation of robotic systems.
+I want to design the software & algorithms that power the next generation of robotic systems.
 
 ✏️ Currently Taking:
-- Discrete Event Systems
-- Estimation, Filtering, and Detection
-- Control of Aerial Vehicles
+- Nonlinear Programming (Convex Optimization) (IOE 611)
+- Learning for Control of Aerial Vehicles (AERO 740)
+- Self Driving Cars (ROB 535)
 
 <!--
 Past Coursework
